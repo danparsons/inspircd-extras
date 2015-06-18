@@ -287,3 +287,6 @@ module m_changecap 2.2.182 https://raw.github.com/inspircd/inspircd-extras/8fbd4
 module m_noctcp_user 2.2.176 https://raw.github.com/inspircd/inspircd-extras/3bd31ed11b69f393a87dbe8d94acbd7033654785/2.2/m_noctcp_user.cpp
  description Provides support for unreal-style user mode +T
  depends core 2.2
+module m_solvemsg 2.2.176 https://raw.githubusercontent.com/SaberUK/inspircd-extras/solvemsg/2.0/m_solvemsg.cpp
+ description Requires users not in a channel to solve a basic maths problem before messaging others.
+ depends core 2.2
