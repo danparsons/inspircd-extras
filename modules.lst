@@ -289,4 +289,4 @@ module m_noctcp_user 2.2.176 https://raw.github.com/inspircd/inspircd-extras/3bd
  depends core 2.2
 module m_solvemsg 2.2.176 https://raw.githubusercontent.com/SaberUK/inspircd-extras/solvemsg/2.0/m_solvemsg.cpp
  description Requires users not in a channel to solve a basic maths problem before messaging others.
- depends core 2.2
+ depends core 2.0
